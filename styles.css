@@ -411,40 +411,6 @@ img {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Sponsors styling */
-.sponsors {
-  margin-bottom: 2.5rem;
-}
-
-.footer .sponsors__title {
-  font-size: 1.5rem;
-  font-weight: bold;
-  opacity: 0.8;
-  letter-spacing: 0.1em;
-  margin-bottom: 2rem;
-}
-
-.sponsors__logos {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 2.5rem;
-  flex-wrap: wrap;
-}
-
-.sponsor-logo {
-  height: 120px;
-  width: auto;
-  max-width: 320px;
-  object-fit: contain;
-  opacity: 0.7;
-  transition: opacity 0.3s ease, transform 0.3s ease;
-}
-
-.sponsor-logo:hover {
-  opacity: 1;
-  transform: translateY(-2px);
-}
 
 /* Scroll Fade In Up Animation */
 .fade-in-on-scroll {
